@@ -1,0 +1,32 @@
+{
+  "u": {
+    "u": "I got it!",
+    "r": "Take the shot!",
+    "d": "Defending...",
+    "l": "Need boost!"
+  },
+  "r": {
+    "u": "OMG!",
+    "r": "Noooo!",
+    "d": "Close one!",
+    "l": "Wow!"
+  },
+  "d": {
+    "u": "$#@%!",
+    "r": "Whoops...",
+    "d": "Sorry!",
+    "l": "No Problem."
+  },
+  "l": {
+    "u": "Nice Shot!",
+    "r": "Thanks!",
+    "d": "What a save!",
+    "l": "Great Pass!"
+  },
+  "p": {
+    "u": "gg",
+    "r": "That was fun!",
+    "d": "Rematch!",
+    "l": "Well played."
+  }
+}
